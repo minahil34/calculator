@@ -16,5 +16,6 @@
     <string name="sub">-</string>
     <string name="equals">=</string>
     <string name="clear">C</string>
+    <string name="display"></string>>
 
 </resources>
